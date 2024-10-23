@@ -1,5 +1,7 @@
 # A_Large_Scale_Fish_Dataset_Fish_Classifacition
 
+https://www.kaggle.com/code/emrebaar/a-large-scale-fish-dataset-fish-classifacition
+
 ## 1. Gerekli Kütüphanelerin Yüklenmesi
 Bu bölümde projemiz için gerekli olan kütüphaneler yüklenmektedir. Bu kütüphaneler arasında pandas, tensorflow, matplotlib gibi veri işleme, model oluşturma ve görselleştirme için gerekli araçlar bulunmaktadır.
 
